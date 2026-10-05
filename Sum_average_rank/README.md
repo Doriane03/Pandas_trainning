@@ -1,4 +1,4 @@
-TEST LINK  https://mybinder.org/v2/gh/Doriane03/Pandas_trainning.git/main?urlpath=%2Fdoc%2Ftree%2Fcode_test.ipynb
+TEST LINK  https://mybinder.org/v2/gh/Doriane03/Pandas_trainning.git/main?urlpath=%2Fdoc%2Ftree%2FSum_average_rank%2Fcode_test.ipynb
 
 Explanation
 
