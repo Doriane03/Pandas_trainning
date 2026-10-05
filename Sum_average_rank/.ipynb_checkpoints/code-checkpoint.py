@@ -13,7 +13,7 @@ classeA_initial=pd.DataFrame({
 sum_grades=classeA_initial.loc[:,['Math', 'Svt', 'Pc']].apply(sum,axis=1)
 #overall average
 overall_average=sum_grades.map(lambda x:x/3,na_action='ignore').round(decimals=2)
-#Rank based on the average (sum_grades/3)
+#Rank based on the average
 rank_average=overall_average.rank(ascending=False)
 #classeA_initial update to classeA_final
 classeA_final=pd.DataFrame({
