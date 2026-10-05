@@ -1,4 +1,4 @@
-TEST LINK https://hub.2i2c.mybinder.org/user/doriane03-pandas_trainning-y1f4gufa/doc/tree/Sum_average_rank/code_test.ipynb <br/>
+TEST LINK  https://hub.2i2c.mybinder.org/user/doriane03-pandas_trainning-ibetmpp4/doc/tree/Sum_average_rank/code_test.ipynb
 
 Explanation
 
