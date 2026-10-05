@@ -1,7 +1,7 @@
 # Pandas_trainning
 This repository is dedicated to my learning about pandas.
 # Sum_average_rank
-TEST LINK  https://hub.2i2c.mybinder.org/user/doriane03-pandas_trainning-ibetmpp4/doc/tree/Sum_average_rank/code_test.ipynb
+TEST LINK https://mybinder.org/v2/gh/Doriane03/Pandas_trainning.git/main?urlpath=%2Fdoc%2Ftree%2Fcode_test.ipynb
 
 Explanation
 
